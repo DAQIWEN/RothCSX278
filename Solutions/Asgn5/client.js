@@ -1,4 +1,5 @@
-reated by Peter on 9/22/16.
+/**
+ * Created by Peter on 9/22/16.
  */
 
 //Intitializing elastic search client
